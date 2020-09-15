@@ -1,5 +1,9 @@
 Change 1 = commit with message "change   1 in File1"
 Change 2 = commit with message "change 2 in File1"
 Bug 1 resolved
+<<<<<<< HEAD
 bug resolve at idea branch
 change added at master
+=======
+bug resolve at idea branch
+>>>>>>> d45d790... W1: bug resolve at idea branch
