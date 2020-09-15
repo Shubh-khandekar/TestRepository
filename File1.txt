@@ -1,2 +1,3 @@
-Change 1 = commit with message "change 1 in File1"
+Change 1 = commit with message "change   1 in File1"
 Change 2 = commit with message "change 2 in File1"
+Bug 1 resolved
